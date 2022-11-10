@@ -1,0 +1,38 @@
+.container1 {
+  position: fixed;
+  top: 20%;
+  left: 20%;
+  background-color: white;
+
+  opacity: 0.9;
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  justify-content: space-around;
+
+  transform: translateY(-150%);
+  transition: 0.8s ease-in-out;
+}
+.container1 label {
+  font-size: 2rem;
+}
+.container1 input {
+  padding: 15px 10px;
+  border-radius: 5px;
+}
+.active {
+  transform: translateY(0);
+  transition: all 0.8s ease-in-out;
+  box-shadow: 0 0 0 10000px rgba(0, 0, 0, 0.598);
+}
+.container2 {
+  display: none;
+}
+.active2 {
+  display: block;
+}
