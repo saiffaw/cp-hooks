@@ -5,6 +5,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eaque",
     rate: 4,
+    path: "/blackwidow",
+    video: "Fp9pNPdNwjI",
   },
   {
     name: "Avatar",
@@ -12,6 +14,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eaque",
     rate: 4,
+    path: "/Avatar",
+    video: "NZrX_ES93JA",
   },
   {
     name: "prey",
@@ -19,6 +23,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eaque",
     rate: 3,
+    path: "/prey",
+    video: "wZ7LytagKlc",
   },
   {
     name: "fall",
@@ -26,6 +32,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eaque",
     rate: 2,
+    path: "/fall",
+    video: "-TYL3uPqYhE",
   },
   {
     name: "angry bird",
@@ -33,6 +41,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, eaque",
     rate: 2,
+    path: "/angry bird",
+    video: "175Bq3MSrWo",
   },
   {
     name: "akamaividz2",
@@ -40,6 +50,8 @@ export const Data = [
     desciption:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet officia mollitia temporibus nesciunt nisi tenetur!",
     rate: 5,
+    path: "/akamaividz2",
+    video: "2lXaupu5INg",
   },
   {
     name: "amsterdam",
@@ -48,6 +60,8 @@ export const Data = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet officia mollitia temporibus nesciunt nisi tenetur!",
 
     rate: 3,
+    path: "/amsterdam",
+    video: "GLs2xxM0e78",
   },
   {
     name: "times of india",
@@ -56,5 +70,7 @@ export const Data = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet officia mollitia temporibus nesciunt nisi tenetur!",
 
     rate: 1,
+    path: "/times of india",
+    video: "Fp9pNPdNwjI",
   },
 ];

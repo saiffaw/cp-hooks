@@ -1,0 +1,17 @@
+p {
+  max-width: 800px;
+  margin: 20px;
+  letter-spacing: 2px;
+  color: white;
+}
+
+.container3 h1 {
+  position: fixed;
+  color: white;
+  top: 0;
+}
+.container3 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
